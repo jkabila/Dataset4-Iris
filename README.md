@@ -14,16 +14,12 @@ Class:
 Iris Setosa
 Iris Versicolour
 Iris Virginica
-Source:
-The dataset was introduced by the British statistician and biologist Ronald Fisher in his 1936 paper "The use of multiple measurements in taxonomic problems" as an example of linear discriminant analysis.
 
 Purpose:
 The primary purpose of the Iris dataset is for use in classification tasks, particularly in machine learning. It serves as a simple and easily accessible dataset for experimenting with various algorithms and techniques, making it an ideal starting point for beginners in the field.
 
 Usage:
 The Iris dataset can be used for various purposes, including but not limited to:
-
-Exploratory Data Analysis (EDA): Understanding the distribution of features, relationships between variables, etc.
 Classification: Building models to predict the species of iris flowers based on their features.
 Feature Engineering: Creating new features or transforming existing ones to improve model performance.
 Model Evaluation: Assessing the performance of classification algorithms using metrics such as accuracy, precision, recall, etc.
