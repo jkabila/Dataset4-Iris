@@ -27,8 +27,7 @@ Visualization: Creating plots and visualizations to better understand the data a
 Note:
 This README file provides basic information about the Iris dataset. For detailed analysis, code examples, and applications, please refer to accompanying documentation, tutorials, or academic resources.
 
-Note:
-This README file provides basic information about the Iris dataset. For detailed analysis, code examples, and applications, please refer to accompanying documentation, tutorials, or academic resources
+
 
 
 
